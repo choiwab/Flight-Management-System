@@ -1,2 +1,2 @@
 # Flight
-# Flight Management System using hashtable in C++
+Flight Management System using hashtable in C++
